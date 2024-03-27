@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tempmail.lol": "^4.1.0"
+  },
+  "type": "module"
+}
